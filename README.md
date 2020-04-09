@@ -6,12 +6,12 @@ by Keisuke Ishihara, Ashish B. George, Ryan Cornelius, and Kirill S. Korolev
 
 This repository contains the codes associated with the manuscript.
 
-**Mathematica notebooks:**
+###Mathematica notebooks:
 
 * 2speciesvelocity_LambdaForm.nb (for analytical solutions)
 * analyzing_deathrates.nb (for analytical solutions)
 
-**Matlab scripts:**
+###Matlab scripts:
 
 * plotVr_compareDiffLimit.m (for Fig. 3)
 * plotVv_compareDiffLimit.m (for Fig. 4)
@@ -23,7 +23,7 @@ This repository contains the codes associated with the manuscript.
 * plotVr_comparePolymerParticleDiffusion.m (for Fig. 9b)
 * _(these executable require additional .m functions, included in the same directory)_
 
-**Python notebooks and scripts:**
+###Python notebooks and scripts:###
 
 * deathrate_figure.ipynb (for Fig. 8)
 * Simulation cluster.py (for numerical simulations in Fig.3-5)
