@@ -6,22 +6,25 @@ by Keisuke Ishihara, Ashish B. George, Ryan Cornelius, and Kirill S. Korolev
 
 This repository contains the codes associated with the manuscript.
 
-* Mathematica notebooks:
- * 2speciesvelocity_LambdaForm.nb (for analytical solutions)
- * analyzing_deathrates.nb (for analytical solutions)
+**Mathematica notebooks:**
 
-* Matlab scripts:
- * plotVr_compareDiffLimit.m (for Fig. 3)
- * plotVv_compareDiffLimit.m (for Fig. 4)
- * plotVf_compareDiffLimit.m (for Fig. 5)
- * spatialdecay.m (for Fig. 6c)
- * plot_twostateGeneral.m (for Fig.7 and 8)
- * plotphase_twostategeneral.m (for Fig. 7 phase diagram)
- * plotVr_comparePolymerParticleDiffusionNoDeath.m (for Fig. 9a)
- * plotVr_comparePolymerParticleDiffusion.m (for Fig. 9b)
- * _(these executable require additional .m functions, included in the same directory)_
+* 2speciesvelocity_LambdaForm.nb (for analytical solutions)
+* analyzing_deathrates.nb (for analytical solutions)
 
-* Python notebooks and scripts:
- * deathrate_figure.ipynb (for Fig. 8)
- * Simulation cluster.py (for numerical simulations in Fig.3-5)
- * Fitting to extract velocity and plotting.py (for numerical simulations in in Fig.3-5)
+**Matlab scripts:**
+
+* plotVr_compareDiffLimit.m (for Fig. 3)
+* plotVv_compareDiffLimit.m (for Fig. 4)
+* plotVf_compareDiffLimit.m (for Fig. 5)
+* spatialdecay.m (for Fig. 6c)
+* plot_twostateGeneral.m (for Fig.7 and 8)
+* plotphase_twostategeneral.m (for Fig. 7 phase diagram)
+* plotVr_comparePolymerParticleDiffusionNoDeath.m (for Fig. 9a)
+* plotVr_comparePolymerParticleDiffusion.m (for Fig. 9b)
+* _(these executable require additional .m functions, included in the same directory)_
+
+**Python notebooks and scripts:**
+
+* deathrate_figure.ipynb (for Fig. 8)
+* Simulation cluster.py (for numerical simulations in Fig.3-5)
+* Fitting to extract velocity and plotting.py (for numerical simulations in in Fig.3-5)
