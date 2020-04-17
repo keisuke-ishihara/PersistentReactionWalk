@@ -6,6 +6,8 @@ by Keisuke Ishihara, Ashish B. George, Ryan Cornelius, and Kirill S. Korolev
 
 This repository contains the codes associated with the manuscript.
 
+[link to bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.15.042895v1)
+
 ##### Mathematica notebooks:
 
 * 2speciesvelocity_LambdaForm.nb (for analytical solutions)
@@ -23,7 +25,7 @@ This repository contains the codes associated with the manuscript.
 * plotVr_comparePolymerParticleDiffusion.m (for Fig. 9b)
 * _(these executable require additional .m functions, included in the same directory)_
 
-##### Python notebooks and scripts:###
+##### Python notebooks and scripts:
 
 * deathrate_figure.ipynb (for Fig. 8)
 * Simulation cluster.py (for numerical simulations in Fig.3-5)
