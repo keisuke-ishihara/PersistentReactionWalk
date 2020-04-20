@@ -6,6 +6,8 @@ by Keisuke Ishihara, Ashish B. George, Ryan Cornelius, and Kirill S. Korolev
 
 This repository contains the codes associated with the manuscript.
 
+[link to arXiv](https://arxiv.org/abs/2004.08313)
+
 [link to bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.15.042895v1)
 
 ##### Mathematica notebooks:
