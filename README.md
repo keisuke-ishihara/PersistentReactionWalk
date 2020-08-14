@@ -1,15 +1,17 @@
 # PersistentReactionWalk
 
 ### Traveling fronts in self-replicating persistent random walks with multiple internal states
-by Keisuke Ishihara, Ashish B. George, Ryan Cornelius, and Kirill S. Korolev
 
+Keisuke Ishihara, Ashish B. George, Ryan Cornelius, and Kirill S. Korolev
+
+New Journal of Physics (2020) - [link to publisher's website (open access)](https://dx.doi.org/10.1088/1367-2630/aba219)
 
 This repository contains the codes associated with the manuscript.
 
-[link to arXiv](https://arxiv.org/abs/2004.08313)
+<!--[link to arXiv](https://arxiv.org/abs/2004.08313)
 
 [link to bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.15.042895v1)
-
+-->
 ##### Mathematica notebooks:
 
 * 2speciesvelocity_LambdaForm.nb (for analytical solutions)
